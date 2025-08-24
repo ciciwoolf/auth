@@ -1,4 +1,4 @@
-# High Security Authentication Study (Auth0, React, Vite)
+# Authentication Study (Auth0, React, Vite)
 
 This project demonstrates best practices for high-security authentication in a React SPA using Auth0. It is designed for sensitive applications such as healthcare, where protecting user tokens is critical.
 
