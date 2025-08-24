@@ -72,7 +72,7 @@ function App() {
           >
             <h2>Welcome, {user?.name}!</h2>
             <p>
-              You are securely logged in and can view your healthcare rewards.
+              You are securely logged in.
             </p>
           </div>
           {/* Secure API call demo */}
